@@ -328,6 +328,8 @@ pre {
     height: auto;
   }
   .showcase-text {
+    justify-self: center;
+    max-width: 300px;
     text-align: center;
     margin-top: 40px;
     animation: slideInFromTop 1s ease-in;
