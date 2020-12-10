@@ -329,7 +329,7 @@ pre {
   }
   .showcase-text {
     justify-self: center;
-    max-width: 300px;
+    max-width: 400px;
     text-align: center;
     margin-top: 40px;
     animation: slideInFromTop 1s ease-in;
